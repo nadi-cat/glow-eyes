@@ -10,7 +10,7 @@ var score = 0;
 let intervalID;
 
 //sounds
-let splat = new Audio("/sounds/splat.mp3")
+let splat = new Audio("sounds/splat.mp3")
 
 //repeat code with interval
 function repeatHalfSecond() {
